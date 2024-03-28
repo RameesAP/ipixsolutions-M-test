@@ -9,7 +9,7 @@ get all user
 ![image](https://github.com/RameesAP/ipixsolutions-M-test/assets/109672661/227b7e37-7b0d-415d-81cb-1f56a048925c)
 
 live link:
-https://ipixsolutions.netlify.app/getallusers
+https://ipixsolutions.netlify.app/
 
 
 
