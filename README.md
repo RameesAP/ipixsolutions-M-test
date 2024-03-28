@@ -8,6 +8,9 @@ Category
 get all user
 ![image](https://github.com/RameesAP/ipixsolutions-M-test/assets/109672661/227b7e37-7b0d-415d-81cb-1f56a048925c)
 
+live link:
+https://ipixsolutions.netlify.app/getallusers
+
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
